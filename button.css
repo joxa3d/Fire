@@ -1,0 +1,26 @@
+.greenbutton {
+	
+	background-image: linear-gradient(colour, colour);
+	background-color: colour;
+	box-shadow: inset 0px 2px 0px 0px colour;
+	border-radius: 6px;
+	cursor: pointer;
+	color: colour;
+	display: inline-block;
+	height: 30px;
+	wider: 70px;
+	font-family: font;
+	font-size: 15pt;
+	font-weight: bold;
+	padding: 5px;
+	text-decoration: none;
+	text-shadow: 0px 2px 0px colour;
+	border: 1px solid button;
+}
+
+.greenbutton:hover {}
+.greenbutton: active {}
+
+base colour - #44dd88;
+highlight colour - #61eb9f
+shadow colour - #2eb489

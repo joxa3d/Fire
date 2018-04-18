@@ -1,0 +1,21 @@
+div{
+	padding:100px;
+}
+
+.greenbutton {
+	background-image: linear-gradient(#44dd88, #2eb489);
+	background-color: #44dd88;
+	border-radius: 4px;
+	cursor:pointer;
+	color: white;
+	font-family;"Helvetica";
+	font-weight: 100;
+	font-size: 20pt;
+	padding: 10px;
+	text-decoration: none;
+}
+
+.greenbutton:hover {
+	background-image:(linear-gradient(#61eb9f, #44dd88));
+	background-color: (#61eb9f);
+}
